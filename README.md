@@ -14,7 +14,7 @@ Most production OOMs are KV cache math errors, not model size.
 
 ## Status
 
-Scaffolded. Concept notes and the first implementation are in progress; results land in `results/` once the GPU runs are done.
+Concept primer written (`CONCEPTS.md`). Calculator and monitor are next; results land in `results/` once the GPU runs are done.
 
 ## Layout
 
