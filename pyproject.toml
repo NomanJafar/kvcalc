@@ -13,7 +13,7 @@ authors = [{ name = "Noman Jafar", email = "numanjafarshahzad@gmail.com" }]
 dependencies = ["httpx>=0.27"]
 
 [project.optional-dependencies]
-dev = ["pytest>=8", "ruff>=0.6"]
+dev = ["pytest>=8", "ruff>=0.6", "tokenbench @ git+https://github.com/NomanJafar/tokenbench"]
 
 [project.scripts]
 kvcalc = "kvcalc.cli:main"
@@ -26,3 +26,6 @@ testpaths = ["tests"]
 
 [tool.ruff]
 line-length = 100
+
+[tool.hatch.metadata]
+allow-direct-references = true
