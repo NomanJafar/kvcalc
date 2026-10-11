@@ -1,0 +1,27 @@
+{
+ "vram_gib": 14.56219482421875,
+ "rows": [
+  {
+   "max_model_len": 2048,
+   "predicted_tokens": 345936,
+   "predicted_kv_gib": 9.237501811981202,
+   "reported_tokens": 340064,
+   "reported_kv_gib": 9.08,
+   "reported_max_concurrency": 166.05,
+   "predicted_max_concurrency": 168.9140625,
+   "model_load_gib": 2.98,
+   "attention_backend": null
+  },
+  {
+   "max_model_len": 8192,
+   "predicted_tokens": 345936,
+   "predicted_kv_gib": 9.237501811981202,
+   "reported_tokens": 340064,
+   "reported_kv_gib": 9.08,
+   "reported_max_concurrency": 41.51,
+   "predicted_max_concurrency": 42.228515625,
+   "model_load_gib": 2.98,
+   "attention_backend": null
+  }
+ ]
+}

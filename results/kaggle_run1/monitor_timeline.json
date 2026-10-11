@@ -1,0 +1,4185 @@
+{
+ "predicted_tokens": 340064,
+ "samples": [
+  {
+   "t": 0.11160188499979995,
+   "kv_usage": 0.0,
+   "running": 0,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 0.0,
+   "kv_tokens_in_use": 0,
+   "gen_tokens_per_s": null
+  },
+  {
+   "t": 1.2091680049998104,
+   "kv_usage": 0.0,
+   "running": 0,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 0.0,
+   "kv_tokens_in_use": 0,
+   "gen_tokens_per_s": 0.0
+  },
+  {
+   "t": 2.2168600199997854,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 45.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 44.65650152045823
+  },
+  {
+   "t": 3.2254966939999576,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 108.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 62.46054860383675
+  },
+  {
+   "t": 4.235676227999875,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 172.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 63.355074861381276
+  },
+  {
+   "t": 5.244056943999794,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 235.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 62.47640300967935
+  },
+  {
+   "t": 6.251182403999792,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 296.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 60.568422130843715
+  },
+  {
+   "t": 7.26171498299982,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 360.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 63.332940797743674
+  },
+  {
+   "t": 8.270186567999872,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 423.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 62.47077353200462
+  },
+  {
+   "t": 9.27769611399981,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 486.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 62.53042489783408
+  },
+  {
+   "t": 10.286240261999865,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 547.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 60.48322239632553
+  },
+  {
+   "t": 11.293937939999978,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 610.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 62.51875078746874
+  },
+  {
+   "t": 12.301145201999816,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 673.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 62.54919158834473
+  },
+  {
+   "t": 13.309174849999863,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 736.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 62.49816176041388
+  },
+  {
+   "t": 14.31747922999989,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 797.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 60.4976048998204
+  },
+  {
+   "t": 15.325046833999977,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 859.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 61.53433253893566
+  },
+  {
+   "t": 16.333614128999898,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 922.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 62.46484524367306
+  },
+  {
+   "t": 17.340847750999956,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 984.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 61.55473630525454
+  },
+  {
+   "t": 18.348956875999875,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1045.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 60.509322341472604
+  },
+  {
+   "t": 19.357239072999846,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1107.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 61.49072172897025
+  },
+  {
+   "t": 20.36466143499979,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1170.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 62.53583638438588
+  },
+  {
+   "t": 21.372993786999814,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1232.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 61.487663147000234
+  },
+  {
+   "t": 22.38128841799994,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1293.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 60.49818983910901
+  },
+  {
+   "t": 23.389624311999796,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1355.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 61.48744715816776
+  },
+  {
+   "t": 24.397723989999804,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1417.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 61.501854779879736
+  },
+  {
+   "t": 25.407110517999854,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1480.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 62.414147853573176
+  },
+  {
+   "t": 26.414540322999983,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1540.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 59.55749939321313
+  },
+  {
+   "t": 27.421691818,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1602.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 61.55975571480335
+  },
+  {
+   "t": 28.42901024599996,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1664.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 61.54955402047139
+  },
+  {
+   "t": 29.441486037999994,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1726.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 61.23603200183777
+  },
+  {
+   "t": 30.449260533999905,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1787.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 60.52941431056556
+  },
+  {
+   "t": 31.457812731999866,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1848.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 60.48273963506086
+  },
+  {
+   "t": 32.46528736099981,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1909.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 60.54743042070531
+  },
+  {
+   "t": 33.47322715999985,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 1971.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 61.51161017900975
+  },
+  {
+   "t": 34.48161817999994,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2032.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 60.49240700298437
+  },
+  {
+   "t": 35.48899868799981,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2092.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 59.560413888818054
+  },
+  {
+   "t": 36.49702837099994,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2154.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 61.50612531118481
+  },
+  {
+   "t": 37.5046274419999,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2215.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 60.53995260184445
+  },
+  {
+   "t": 38.511832443,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2276.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 60.56363892100434
+  },
+  {
+   "t": 39.52470064099998,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2336.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 59.23771732440284
+  },
+  {
+   "t": 40.53199347799978,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2397.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 60.55835776782397
+  },
+  {
+   "t": 41.54056921399979,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2458.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 60.481328097307404
+  },
+  {
+   "t": 42.549197682999875,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2519.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 60.478166019320206
+  },
+  {
+   "t": 43.55696943699991,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2578.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 58.54500264153873
+  },
+  {
+   "t": 44.566600237999864,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2639.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 60.418125060749375
+  },
+  {
+   "t": 45.5752744739998,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2700.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 60.475421918086965
+  },
+  {
+   "t": 46.58263206099991,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2760.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 59.561769101951626
+  },
+  {
+   "t": 47.59123859399983,
+   "kv_usage": 0.0031054439373264797,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2818.0,
+   "kv_tokens_in_use": 1056,
+   "gen_tokens_per_s": 57.50508062592987
+  },
+  {
+   "t": 48.60212907999994,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2878.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 59.353610337562934
+  },
+  {
+   "t": 49.611944671999936,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2938.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 59.41678904082546
+  },
+  {
+   "t": 50.619574293999904,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 2997.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 58.55326075358461
+  },
+  {
+   "t": 51.62776355699998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3056.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 58.520758120785025
+  },
+  {
+   "t": 52.6355716019998,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3114.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 57.550641997514894
+  },
+  {
+   "t": 53.642666759999884,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3171.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 56.598425230434145
+  },
+  {
+   "t": 54.650992592999955,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3228.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 56.52934610472877
+  },
+  {
+   "t": 55.65943632299991,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3286.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 57.514364237261574
+  },
+  {
+   "t": 56.66644035499985,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3342.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 55.61050226261984
+  },
+  {
+   "t": 57.6735068349999,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3398.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 55.607053865994324
+  },
+  {
+   "t": 58.68274198799986,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3454.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 55.487563858174525
+  },
+  {
+   "t": 59.690023931999804,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3509.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 54.60238846493526
+  },
+  {
+   "t": 60.697533141999884,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3563.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 53.59752492981747
+  },
+  {
+   "t": 61.70477851999999,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3617.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 53.611563953976535
+  },
+  {
+   "t": 62.713086148,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3670.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 52.56332346223151
+  },
+  {
+   "t": 63.72140857199997,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3724.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 53.55429842151518
+  },
+  {
+   "t": 64.72917240999982,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3776.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 51.59939068979367
+  },
+  {
+   "t": 65.73755010799982,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3829.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 52.55967094980297
+  },
+  {
+   "t": 66.7450636489998,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3881.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 51.61220954746555
+  },
+  {
+   "t": 67.75265221199993,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3931.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 49.62342947911539
+  },
+  {
+   "t": 68.75989497199998,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 3981.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 49.64046601833835
+  },
+  {
+   "t": 69.76760838199993,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4031.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 49.61728156421221
+  },
+  {
+   "t": 70.7750516829999,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4081.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 49.63058461986999
+  },
+  {
+   "t": 71.78217217899987,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4131.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 49.64649234981061
+  },
+  {
+   "t": 72.79011451199995,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4181.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 49.606012529683426
+  },
+  {
+   "t": 73.79892206399995,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4231.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 49.56346718546337
+  },
+  {
+   "t": 74.80683475599994,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4281.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 49.60747135824385
+  },
+  {
+   "t": 75.81523888299989,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4331.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 49.58329568597902
+  },
+  {
+   "t": 76.82314782899994,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4381.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 49.6076557296455
+  },
+  {
+   "t": 77.83219486099983,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4431.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 49.55170414693319
+  },
+  {
+   "t": 78.8396236709998,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4481.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 49.6312985132932
+  },
+  {
+   "t": 79.84711462399991,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4531.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 49.62823720759931
+  },
+  {
+   "t": 80.85458671699985,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4581.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 49.62916625423919
+  },
+  {
+   "t": 81.86192034799979,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4631.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 49.635987979838525
+  },
+  {
+   "t": 82.86977948799995,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4681.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 49.610107221919776
+  },
+  {
+   "t": 83.87942679399998,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4731.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 49.522243760632925
+  },
+  {
+   "t": 84.88723688099981,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4781.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 49.61252188777574
+  },
+  {
+   "t": 85.89491468699998,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4831.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 49.61903467782772
+  },
+  {
+   "t": 86.90262513399989,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4884.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 52.59447310265387
+  },
+  {
+   "t": 87.91519026799983,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4937.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 52.34231183789015
+  },
+  {
+   "t": 88.92308546799995,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 4992.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 54.56916552434559
+  },
+  {
+   "t": 89.93135251699982,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5045.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 52.56543894057861
+  },
+  {
+   "t": 90.94063034099986,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5099.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 53.50360298810847
+  },
+  {
+   "t": 91.94904164899981,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5155.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 55.53289571005365
+  },
+  {
+   "t": 92.95674542699999,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5210.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 54.579531406689156
+  },
+  {
+   "t": 93.96481784699995,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5266.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 55.55156444018387
+  },
+  {
+   "t": 94.97205999399989,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5322.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 55.59735577665734
+  },
+  {
+   "t": 95.98039333499992,
+   "kv_usage": 0.0031054439373264797,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5377.0,
+   "kv_tokens_in_use": 1056,
+   "gen_tokens_per_s": 54.54545413072742
+  },
+  {
+   "t": 96.9884983049999,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5436.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 58.52565135156646
+  },
+  {
+   "t": 97.99602580499982,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5493.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 56.57413817489281
+  },
+  {
+   "t": 99.0037905109998,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5550.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 56.56082184723844
+  },
+  {
+   "t": 100.01173902799997,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5608.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 57.54262149481475
+  },
+  {
+   "t": 101.01954815499994,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5665.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 56.558328827281514
+  },
+  {
+   "t": 102.02727328499986,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5723.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 57.555377228713404
+  },
+  {
+   "t": 103.0344616729999,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5781.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 57.58604913542569
+  },
+  {
+   "t": 104.04179264999993,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5838.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 56.58517538074069
+  },
+  {
+   "t": 105.04968629099994,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5896.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 57.545754473114535
+  },
+  {
+   "t": 106.05720027099983,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 5955.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 58.55998147043749
+  },
+  {
+   "t": 107.06517264599984,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6013.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 57.54125950128297
+  },
+  {
+   "t": 108.07220257499989,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6071.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 57.59511046269692
+  },
+  {
+   "t": 109.07919728699994,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6129.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 57.59712470068769
+  },
+  {
+   "t": 110.0861204549999,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6187.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 57.6012170970352
+  },
+  {
+   "t": 111.09934491099989,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6246.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 58.22994071118299
+  },
+  {
+   "t": 112.10722290999979,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6305.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 58.538831146770306
+  },
+  {
+   "t": 113.11436934599988,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6363.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 57.588447843144756
+  },
+  {
+   "t": 114.1225367139998,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6420.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 56.53823145762033
+  },
+  {
+   "t": 115.13043296699993,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6479.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 58.537770950511316
+  },
+  {
+   "t": 116.13868472799982,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6538.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 58.517130623694335
+  },
+  {
+   "t": 117.14581169299981,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6596.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 57.58956121287065
+  },
+  {
+   "t": 118.15432150999982,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6655.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 58.502157346872686
+  },
+  {
+   "t": 119.16220177599985,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6713.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 57.54651812976197
+  },
+  {
+   "t": 120.16985331699993,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6771.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 57.55958050978162
+  },
+  {
+   "t": 121.17817889099979,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6829.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 57.52110379381129
+  },
+  {
+   "t": 122.18800081599989,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6888.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 58.42614280730175
+  },
+  {
+   "t": 123.1965086199998,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 6945.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 56.51914618204044
+  },
+  {
+   "t": 124.20736519299999,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7004.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 58.3663415521851
+  },
+  {
+   "t": 125.21599774999981,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7063.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 58.49503824811602
+  },
+  {
+   "t": 126.22414408299983,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7121.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 57.5313306228127
+  },
+  {
+   "t": 127.23145172699992,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7178.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 56.58648610433331
+  },
+  {
+   "t": 128.23963712,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7236.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 57.52910169369575
+  },
+  {
+   "t": 129.24820862799993,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7293.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 56.51557628574597
+  },
+  {
+   "t": 130.2565320199999,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7350.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 56.52948295381998
+  },
+  {
+   "t": 131.2643612339998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7407.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 56.557201565705924
+  },
+  {
+   "t": 132.27194145599992,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7464.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 56.571177912614374
+  },
+  {
+   "t": 133.28075678399978,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7522.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 57.493178771376016
+  },
+  {
+   "t": 134.28792374699992,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7579.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 56.594390100136536
+  },
+  {
+   "t": 135.2955511329999,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7635.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 55.57609963570582
+  },
+  {
+   "t": 136.30370670499997,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7691.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 55.54698258414791
+  },
+  {
+   "t": 137.3107293459998,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7747.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 55.609474623530275
+  },
+  {
+   "t": 138.31831188299998,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7802.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 54.58609888550466
+  },
+  {
+   "t": 139.3262743429998,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7859.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 56.54972507608106
+  },
+  {
+   "t": 140.33881905599992,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7914.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 54.31858889178084
+  },
+  {
+   "t": 141.3462212899999,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 7970.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 55.58852076160966
+  },
+  {
+   "t": 142.3534336969999,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8027.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 56.591836641265836
+  },
+  {
+   "t": 143.36106522499995,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8083.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 55.575871182940375
+  },
+  {
+   "t": 144.36820318299988,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8138.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 54.610194723694256
+  },
+  {
+   "t": 145.375488464,
+   "kv_usage": 0.0,
+   "running": 0,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8192.0,
+   "kv_tokens_in_use": 0,
+   "gen_tokens_per_s": 53.609440164144964
+  },
+  {
+   "t": 146.38387036699987,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8247.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 54.54282731213094
+  },
+  {
+   "t": 147.39103260499996,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8302.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 54.60887821728974
+  },
+  {
+   "t": 148.3995896949998,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8357.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 54.53335318877062
+  },
+  {
+   "t": 149.40768702699984,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8411.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 53.56625623923205
+  },
+  {
+   "t": 150.41540478499996,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8465.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 53.586432878950255
+  },
+  {
+   "t": 151.42376992699997,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8519.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 53.55202966744349
+  },
+  {
+   "t": 152.43134059,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8574.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 54.586742170756004
+  },
+  {
+   "t": 153.43850201799978,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8627.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 52.62314314921424
+  },
+  {
+   "t": 154.44629145499994,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8681.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 53.582621545170696
+  },
+  {
+   "t": 155.453451267,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8735.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 53.61611867014912
+  },
+  {
+   "t": 156.46093478299986,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8788.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 52.60631976434944
+  },
+  {
+   "t": 157.46802815499996,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8841.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 52.62669924511703
+  },
+  {
+   "t": 158.4754787119998,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8895.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 53.6006453366899
+  },
+  {
+   "t": 159.4900934279999,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 8949.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 53.222173055880326
+  },
+  {
+   "t": 160.4970897999999,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9003.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 53.62482080521321
+  },
+  {
+   "t": 161.50521235099995,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9057.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 53.56491623605962
+  },
+  {
+   "t": 162.51320048499997,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9111.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 53.57205921235494
+  },
+  {
+   "t": 163.52417616999992,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9166.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 54.40289100523996
+  },
+  {
+   "t": 164.533201578,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9220.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 53.51698735419379
+  },
+  {
+   "t": 165.54030201399996,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9273.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 52.62633011113243
+  },
+  {
+   "t": 166.54843602699998,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9329.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 55.54817045935643
+  },
+  {
+   "t": 167.55646077999995,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9382.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 52.57807394339001
+  },
+  {
+   "t": 168.56408437599998,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9436.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 53.59144050850351
+  },
+  {
+   "t": 169.5713172369999,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9491.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 54.60504926874536
+  },
+  {
+   "t": 170.57910726299997,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9546.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 54.57486041839076
+  },
+  {
+   "t": 171.58659251099994,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9601.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 54.591370056469394
+  },
+  {
+   "t": 172.59453623399986,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9657.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 55.55865741524552
+  },
+  {
+   "t": 173.6025609819999,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9712.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 54.562152476040815
+  },
+  {
+   "t": 174.61097600899984,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9767.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 54.541035711879005
+  },
+  {
+   "t": 175.619020632,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9822.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 54.561076707406116
+  },
+  {
+   "t": 176.626872586,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9877.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 54.57150703703513
+  },
+  {
+   "t": 177.63404124099998,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9932.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 54.608530286321034
+  },
+  {
+   "t": 178.64129725599992,
+   "kv_usage": 0.0031054439373264797,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 9987.0,
+   "kv_tokens_in_use": 1056,
+   "gen_tokens_per_s": 54.60379405131011
+  },
+  {
+   "t": 179.64883400999997,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10043.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 55.58109893030942
+  },
+  {
+   "t": 180.65623968,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10098.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 54.595682392772915
+  },
+  {
+   "t": 181.66443199599985,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10153.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 54.553083897941754
+  },
+  {
+   "t": 182.67273306799984,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10208.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 54.54719976733327
+  },
+  {
+   "t": 183.681421947,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10264.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 55.51761416811641
+  },
+  {
+   "t": 184.6898303339999,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10320.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 55.533056569078866
+  },
+  {
+   "t": 185.69802456599996,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10377.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 56.53672495916157
+  },
+  {
+   "t": 186.70585499799995,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10432.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 54.572672399716204
+  },
+  {
+   "t": 187.71305640499986,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10488.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 55.59960461811083
+  },
+  {
+   "t": 188.72136656299995,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10544.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 55.538466567739604
+  },
+  {
+   "t": 189.72863556799985,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10600.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 55.59587331887141
+  },
+  {
+   "t": 190.7358136439998,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10656.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 55.60089256748578
+  },
+  {
+   "t": 191.7457164299999,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10712.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 55.450881784173845
+  },
+  {
+   "t": 192.75533307699993,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10769.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 56.45707226536877
+  },
+  {
+   "t": 193.76230728299993,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10824.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 54.61907531720853
+  },
+  {
+   "t": 194.7699743999999,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10880.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 55.57390834259104
+  },
+  {
+   "t": 195.77792781799985,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10937.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 56.550232364015095
+  },
+  {
+   "t": 196.7852248889999,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 10993.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 55.59432426861274
+  },
+  {
+   "t": 197.7926818809999,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11049.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 55.58549937583749
+  },
+  {
+   "t": 198.80045053599997,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11105.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 55.56830897860826
+  },
+  {
+   "t": 199.8080501989998,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11161.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 55.577628751161114
+  },
+  {
+   "t": 200.81609097699993,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11218.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 56.54533154212644
+  },
+  {
+   "t": 201.8235724179999,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11273.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 54.5915763424976
+  },
+  {
+   "t": 202.83113800499996,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11330.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 56.57199961514513
+  },
+  {
+   "t": 203.83831406699983,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11387.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 56.59387881679746
+  },
+  {
+   "t": 204.8457474989998,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11443.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 55.586799307253514
+  },
+  {
+   "t": 205.8545588989998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11501.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 57.49340263204722
+  },
+  {
+   "t": 206.86312375999978,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11557.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 55.5244408817469
+  },
+  {
+   "t": 207.87182254799995,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11614.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 56.508445016581256
+  },
+  {
+   "t": 208.879112136,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11670.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 55.59473727032835
+  },
+  {
+   "t": 209.88619509399996,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11727.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 56.5991108748387
+  },
+  {
+   "t": 210.89358174599988,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11782.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 54.59671308013739
+  },
+  {
+   "t": 211.901271018,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11839.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 56.56505589948759
+  },
+  {
+   "t": 212.9088746169998,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11895.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 55.57741164837771
+  },
+  {
+   "t": 213.9158746789999,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 11949.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 53.62462430513263
+  },
+  {
+   "t": 214.92341073199987,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12006.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 56.573657915546434
+  },
+  {
+   "t": 215.93367660799981,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12062.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 55.43095271289045
+  },
+  {
+   "t": 216.94335893699986,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12120.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 57.44381013129282
+  },
+  {
+   "t": 217.95231958,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12176.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 55.502660473935265
+  },
+  {
+   "t": 218.9604164939999,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12232.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 55.550214688986905
+  },
+  {
+   "t": 219.96830594199992,
+   "kv_usage": 0.0,
+   "running": 0,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12288.0,
+   "kv_tokens_in_use": 0,
+   "gen_tokens_per_s": 55.56164925738879
+  },
+  {
+   "t": 220.97571330099981,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12344.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 55.58823796521981
+  },
+  {
+   "t": 221.98345837199986,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12400.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 55.56960942952358
+  },
+  {
+   "t": 222.99064951899982,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12456.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 55.60017099713681
+  },
+  {
+   "t": 223.99848513799998,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12511.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 54.5723915320274
+  },
+  {
+   "t": 225.00587755399988,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12568.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 56.58172435557181
+  },
+  {
+   "t": 226.01379099299993,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12625.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 56.55247543534066
+  },
+  {
+   "t": 227.02369570799988,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12680.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 54.4605834422734
+  },
+  {
+   "t": 228.03319496699987,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12736.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 55.47304715753169
+  },
+  {
+   "t": 229.04062197599978,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12792.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 55.587153709122866
+  },
+  {
+   "t": 230.04835809399992,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12847.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 54.57777985485722
+  },
+  {
+   "t": 231.056170932,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12903.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 55.5658728371909
+  },
+  {
+   "t": 232.06352025299998,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 12960.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 56.58414495521403
+  },
+  {
+   "t": 233.0713620759998,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13015.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 54.572055599254966
+  },
+  {
+   "t": 234.08147711899983,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13072.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 56.429216053163614
+  },
+  {
+   "t": 235.09000434699988,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13129.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 56.51805763641443
+  },
+  {
+   "t": 236.098851127,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13184.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 54.517693955462555
+  },
+  {
+   "t": 237.1067115809999,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13240.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 55.563247647778994
+  },
+  {
+   "t": 238.114702331,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13296.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 55.556065370634606
+  },
+  {
+   "t": 239.1228488109998,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13352.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 55.54748353633079
+  },
+  {
+   "t": 240.13153773999989,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13408.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 55.51761141615144
+  },
+  {
+   "t": 241.13929272099995,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13463.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 54.576758276520614
+  },
+  {
+   "t": 242.14926999699992,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13519.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 55.44679205238033
+  },
+  {
+   "t": 243.15658365699983,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13575.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 55.593408710455755
+  },
+  {
+   "t": 244.16376673799982,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13631.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 55.60061626968528
+  },
+  {
+   "t": 245.17140982799992,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13687.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 55.57523348866945
+  },
+  {
+   "t": 246.179898009,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13742.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 54.53707939884711
+  },
+  {
+   "t": 247.1880618619998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13799.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 56.53842858023049
+  },
+  {
+   "t": 248.19535297499988,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13855.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 55.59465310203367
+  },
+  {
+   "t": 249.20817833799993,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13911.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 55.29087446440398
+  },
+  {
+   "t": 250.21596539899997,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 13968.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 56.559567200076884
+  },
+  {
+   "t": 251.22438507499987,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14023.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 54.540784267685474
+  },
+  {
+   "t": 252.2326467639998,
+   "kv_usage": 0.0,
+   "running": 0,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14080.0,
+   "kv_tokens_in_use": 0,
+   "gen_tokens_per_s": 56.53294241154446
+  },
+  {
+   "t": 253.24053778799998,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14135.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 54.56939162104349
+  },
+  {
+   "t": 254.24805994999997,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14190.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 54.58936991601455
+  },
+  {
+   "t": 255.255793822,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14245.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 54.577901495801925
+  },
+  {
+   "t": 256.26307769999994,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14301.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 55.59505242076615
+  },
+  {
+   "t": 257.27018356199983,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14357.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 55.60487940045984
+  },
+  {
+   "t": 258.2777510789999,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14412.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 54.58691261083466
+  },
+  {
+   "t": 259.2851221379999,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14467.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 54.59755817741945
+  },
+  {
+   "t": 260.29206632,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14523.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 55.61380759831887
+  },
+  {
+   "t": 261.29996233099996,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14579.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 55.561287463020214
+  },
+  {
+   "t": 262.30779361299983,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14635.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 55.564855943821776
+  },
+  {
+   "t": 263.3154758259998,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14691.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 55.57307579468273
+  },
+  {
+   "t": 264.322501934,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14747.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 55.609283170628444
+  },
+  {
+   "t": 265.3308380929998,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14803.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 55.537034450444715
+  },
+  {
+   "t": 266.33832031399993,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14859.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 55.58410742415662
+  },
+  {
+   "t": 267.35292581499994,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14915.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 55.193865935879344
+  },
+  {
+   "t": 268.36152602899983,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 14971.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 55.5224946640807
+  },
+  {
+   "t": 269.36917240899993,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15026.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 54.58264039016816
+  },
+  {
+   "t": 270.3778130779999,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15080.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 53.53740103850667
+  },
+  {
+   "t": 271.38637122599994,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15136.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 55.524810454457686
+  },
+  {
+   "t": 272.3960843269999,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15192.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 55.46129880313462
+  },
+  {
+   "t": 273.40460951299997,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15247.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 54.53507831384756
+  },
+  {
+   "t": 274.41302468699996,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15303.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 55.53268281145521
+  },
+  {
+   "t": 275.420715515,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15359.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 55.572600686605384
+  },
+  {
+   "t": 276.4278882079998,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15415.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 55.60118973560277
+  },
+  {
+   "t": 277.435510649,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15471.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 55.57637238052463
+  },
+  {
+   "t": 278.4426603229999,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15525.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 53.61665837167596
+  },
+  {
+   "t": 279.4552942349999,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15581.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 55.301327889957584
+  },
+  {
+   "t": 280.46297293099997,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15636.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 54.580889938746296
+  },
+  {
+   "t": 281.4708444339999,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15692.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 55.56263852417278
+  },
+  {
+   "t": 282.4787378589999,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15747.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 54.56926162604831
+  },
+  {
+   "t": 283.48652960799996,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15803.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 55.56703560588298
+  },
+  {
+   "t": 284.4946801049998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15858.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 54.5553468095028
+  },
+  {
+   "t": 285.502176255,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15914.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 55.583338953692326
+  },
+  {
+   "t": 286.50947335699993,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 15969.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 54.60156679772057
+  },
+  {
+   "t": 287.51680158,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16025.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 55.5926049934538
+  },
+  {
+   "t": 288.52447555799995,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16081.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 55.57352995375493
+  },
+  {
+   "t": 289.5329284329998,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16136.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 54.53898874551456
+  },
+  {
+   "t": 290.5401757469999,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16193.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 56.58987540372288
+  },
+  {
+   "t": 291.54941562,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16249.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 55.48730435464686
+  },
+  {
+   "t": 292.5570614599999,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16304.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 54.58266964115656
+  },
+  {
+   "t": 293.5651951269999,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16359.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 54.55625756817217
+  },
+  {
+   "t": 294.57255419199987,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16415.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 55.59090293191832
+  },
+  {
+   "t": 295.57994821499983,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16471.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 55.58897384881763
+  },
+  {
+   "t": 296.5881464869999,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16526.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 54.55276162186881
+  },
+  {
+   "t": 297.5985654929998,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16582.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 55.42255209717021
+  },
+  {
+   "t": 298.608023151,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16637.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 54.48470231922202
+  },
+  {
+   "t": 299.61542585899997,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16693.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 55.58849460627173
+  },
+  {
+   "t": 300.6234489499998,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16748.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 54.562242165948724
+  },
+  {
+   "t": 301.63097900899993,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16804.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 55.581468264652415
+  },
+  {
+   "t": 302.6385006419998,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16859.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 54.58939857820963
+  },
+  {
+   "t": 303.645891808,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16914.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 54.596468438746655
+  },
+  {
+   "t": 304.65388686899996,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 16971.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 56.54789612109167
+  },
+  {
+   "t": 305.661431109,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17027.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 55.580685965709186
+  },
+  {
+   "t": 306.6685050689998,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17083.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 55.60664084692321
+  },
+  {
+   "t": 307.6757709269998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17139.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 55.59604701701403
+  },
+  {
+   "t": 308.6857401939999,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17194.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 54.45710260408867
+  },
+  {
+   "t": 309.6937200579998,
+   "kv_usage": 0.0033877570225380182,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17249.0,
+   "kv_tokens_in_use": 1152,
+   "gen_tokens_per_s": 54.56458205597997
+  },
+  {
+   "t": 310.70115842999985,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17305.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 55.58652673594872
+  },
+  {
+   "t": 311.7083135839998,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17361.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 55.602157996801964
+  },
+  {
+   "t": 312.7157086519999,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17414.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 52.6109385320093
+  },
+  {
+   "t": 313.7231064169998,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17469.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 54.596110802372785
+  },
+  {
+   "t": 314.73091447799993,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17524.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 54.57388378638326
+  },
+  {
+   "t": 315.73961649499984,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17579.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 54.52551801530221
+  },
+  {
+   "t": 316.748194025,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17634.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 54.532248006747125
+  },
+  {
+   "t": 317.7558451369998,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17689.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 54.58238406629006
+  },
+  {
+   "t": 318.76523465699984,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17745.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 55.47907808672242
+  },
+  {
+   "t": 319.7729890889998,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17801.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 55.56909324513141
+  },
+  {
+   "t": 320.78053952799996,
+   "kv_usage": 0.0036700701077494458,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17856.0,
+   "kv_tokens_in_use": 1248,
+   "gen_tokens_per_s": 54.58783786008626
+  },
+  {
+   "t": 321.7891362839998,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17912.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 55.52268502438821
+  },
+  {
+   "t": 322.79697089599995,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 17968.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 55.564672351214206
+  },
+  {
+   "t": 323.8047312509998,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18024.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 55.56876664393944
+  },
+  {
+   "t": 324.81203869599995,
+   "kv_usage": 0.0035759657460123773,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18079.0,
+   "kv_tokens_in_use": 1216,
+   "gen_tokens_per_s": 54.601006150601556
+  },
+  {
+   "t": 325.8198744489998,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18133.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 53.58015910753899
+  },
+  {
+   "t": 326.82737545099985,
+   "kv_usage": 0.003152496118195125,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18188.0,
+   "kv_tokens_in_use": 1072,
+   "gen_tokens_per_s": 54.59051642709787
+  },
+  {
+   "t": 327.8375369839998,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18243.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 54.44673767834066
+  },
+  {
+   "t": 328.8458206339999,
+   "kv_usage": 0.0034818613842751978,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18298.0,
+   "kv_tokens_in_use": 1184,
+   "gen_tokens_per_s": 54.548142281188795
+  },
+  {
+   "t": 329.85320075999994,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18353.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 54.59706676801922
+  },
+  {
+   "t": 330.8608187159998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18408.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 54.58418011757499
+  },
+  {
+   "t": 331.8684329419998,
+   "kv_usage": 0.0036230179268809115,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18541.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 131.99496053959217
+  },
+  {
+   "t": 332.8768161029998,
+   "kv_usage": 0.0041876440973038775,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18753.0,
+   "kv_tokens_in_use": 1424,
+   "gen_tokens_per_s": 210.23754481358648
+  },
+  {
+   "t": 333.88679891899983,
+   "kv_usage": 0.004940478991201203,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 18969.0,
+   "kv_tokens_in_use": 1680,
+   "gen_tokens_per_s": 213.86502480849134
+  },
+  {
+   "t": 334.89439057999994,
+   "kv_usage": 0.00550510516162428,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 19177.0,
+   "kv_tokens_in_use": 1872,
+   "gen_tokens_per_s": 206.43283192076572
+  },
+  {
+   "t": 335.9024793069998,
+   "kv_usage": 0.006069731332047246,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 19385.0,
+   "kv_tokens_in_use": 2064,
+   "gen_tokens_per_s": 206.3310445093681
+  },
+  {
+   "t": 336.90999873099986,
+   "kv_usage": 0.0036230179268809115,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 19581.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 194.53719236681164
+  },
+  {
+   "t": 337.9181290219999,
+   "kv_usage": 0.0043758528207782366,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 19797.0,
+   "kv_tokens_in_use": 1488,
+   "gen_tokens_per_s": 214.2580199487238
+  },
+  {
+   "t": 338.9276133599999,
+   "kv_usage": 0.004940478991201203,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 20009.0,
+   "kv_tokens_in_use": 1680,
+   "gen_tokens_per_s": 210.00821114274828
+  },
+  {
+   "t": 339.93538935699985,
+   "kv_usage": 0.00550510516162428,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 20217.0,
+   "kv_tokens_in_use": 1872,
+   "gen_tokens_per_s": 206.39507253516143
+  },
+  {
+   "t": 340.9459692889998,
+   "kv_usage": 0.006069731332047246,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 20425.0,
+   "kv_tokens_in_use": 2064,
+   "gen_tokens_per_s": 205.82241286779762
+  },
+  {
+   "t": 341.9538502749999,
+   "kv_usage": 0.0038112266503552705,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 20625.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 198.4361276560198
+  },
+  {
+   "t": 342.96168710899997,
+   "kv_usage": 0.0043758528207782366,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 20837.0,
+   "kv_tokens_in_use": 1488,
+   "gen_tokens_per_s": 210.3515101334255
+  },
+  {
+   "t": 343.96962933099985,
+   "kv_usage": 0.004940478991201203,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 21049.0,
+   "kv_tokens_in_use": 1680,
+   "gen_tokens_per_s": 210.32951628850861
+  },
+  {
+   "t": 344.97723161199997,
+   "kv_usage": 0.00550510516162428,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 21257.0,
+   "kv_tokens_in_use": 1872,
+   "gen_tokens_per_s": 206.43065614494742
+  },
+  {
+   "t": 345.9855715829999,
+   "kv_usage": 0.006257940055521605,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 21465.0,
+   "kv_tokens_in_use": 2128,
+   "gen_tokens_per_s": 206.27963383592984
+  },
+  {
+   "t": 346.9940642939998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 21665.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 198.3157615504238
+  },
+  {
+   "t": 348.00152647899995,
+   "kv_usage": 0.0043758528207782366,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 21877.0,
+   "kv_tokens_in_use": 1488,
+   "gen_tokens_per_s": 210.42973439243707
+  },
+  {
+   "t": 349.0090198789999,
+   "kv_usage": 0.004940478991201203,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 22089.0,
+   "kv_tokens_in_use": 1680,
+   "gen_tokens_per_s": 210.42321468310828
+  },
+  {
+   "t": 350.016423347,
+   "kv_usage": 0.005693313885098528,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 22297.0,
+   "kv_tokens_in_use": 1936,
+   "gen_tokens_per_s": 206.47139562951665
+  },
+  {
+   "t": 351.0241846629999,
+   "kv_usage": 0.006257940055521605,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 22501.0,
+   "kv_tokens_in_use": 2128,
+   "gen_tokens_per_s": 202.4288854524927
+  },
+  {
+   "t": 352.0357143609999,
+   "kv_usage": 0.0038112266503552705,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 22705.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 201.67475102643917
+  },
+  {
+   "t": 353.0435830519998,
+   "kv_usage": 0.0043758528207782366,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 22917.0,
+   "kv_tokens_in_use": 1488,
+   "gen_tokens_per_s": 210.3448612831492
+  },
+  {
+   "t": 354.05151380999996,
+   "kv_usage": 0.005128687714675562,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 23129.0,
+   "kv_tokens_in_use": 1744,
+   "gen_tokens_per_s": 210.33190853370803
+  },
+  {
+   "t": 355.0616932799999,
+   "kv_usage": 0.005693313885098528,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 23337.0,
+   "kv_tokens_in_use": 1936,
+   "gen_tokens_per_s": 205.90400634455395
+  },
+  {
+   "t": 356.0707955409998,
+   "kv_usage": 0.006257940055521605,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 23545.0,
+   "kv_tokens_in_use": 2128,
+   "gen_tokens_per_s": 206.12380730758244
+  },
+  {
+   "t": 357.0793983699998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 23745.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 198.29410968269588
+  },
+  {
+   "t": 358.08888770499993,
+   "kv_usage": 0.004564061544252596,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 23961.0,
+   "kv_tokens_in_use": 1552,
+   "gen_tokens_per_s": 213.9695710603749
+  },
+  {
+   "t": 359.09791434399995,
+   "kv_usage": 0.005128687714675562,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 24173.0,
+   "kv_tokens_in_use": 1744,
+   "gen_tokens_per_s": 210.1034718073458
+  },
+  {
+   "t": 360.107099995,
+   "kv_usage": 0.005693313885098528,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 24381.0,
+   "kv_tokens_in_use": 1936,
+   "gen_tokens_per_s": 206.1067750952289
+  },
+  {
+   "t": 361.11506322699984,
+   "kv_usage": 0.0032466004799321935,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 24577.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 194.45153729578846
+  },
+  {
+   "t": 362.1219045659998,
+   "kv_usage": 0.0039994353738296295,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 24789.0,
+   "kv_tokens_in_use": 1360,
+   "gen_tokens_per_s": 210.55949114144488
+  },
+  {
+   "t": 363.12985031999983,
+   "kv_usage": 0.004564061544252596,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 25001.0,
+   "kv_tokens_in_use": 1552,
+   "gen_tokens_per_s": 210.32877926086286
+  },
+  {
+   "t": 364.13694842899986,
+   "kv_usage": 0.005128687714675562,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 25213.0,
+   "kv_tokens_in_use": 1744,
+   "gen_tokens_per_s": 210.505806837926
+  },
+  {
+   "t": 365.144266713,
+   "kv_usage": 0.005740366065967173,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 25421.0,
+   "kv_tokens_in_use": 1952,
+   "gen_tokens_per_s": 206.48885590959355
+  },
+  {
+   "t": 366.1513615319998,
+   "kv_usage": 0.0034348092034065525,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 25617.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 194.6192119175605
+  },
+  {
+   "t": 367.1588322409998,
+   "kv_usage": 0.0039994353738296295,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 25829.0,
+   "kv_tokens_in_use": 1360,
+   "gen_tokens_per_s": 210.42795399026963
+  },
+  {
+   "t": 368.16647939899985,
+   "kv_usage": 0.004564061544252596,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 26041.0,
+   "kv_tokens_in_use": 1552,
+   "gen_tokens_per_s": 210.39110597083484
+  },
+  {
+   "t": 369.174661604,
+   "kv_usage": 0.005175739895544207,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 26253.0,
+   "kv_tokens_in_use": 1760,
+   "gen_tokens_per_s": 210.2794504292711
+  },
+  {
+   "t": 370.18252101999997,
+   "kv_usage": 0.005881522608572887,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 26461.0,
+   "kv_tokens_in_use": 2000,
+   "gen_tokens_per_s": 206.3779895270685
+  },
+  {
+   "t": 371.19032555599983,
+   "kv_usage": 0.0034348092034065525,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 26657.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 194.48215700432797
+  },
+  {
+   "t": 372.19735982399993,
+   "kv_usage": 0.0039994353738296295,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 26869.0,
+   "kv_tokens_in_use": 1360,
+   "gen_tokens_per_s": 210.51915186661697
+  },
+  {
+   "t": 373.2057772649998,
+   "kv_usage": 0.00461111372512113,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 27085.0,
+   "kv_tokens_in_use": 1568,
+   "gen_tokens_per_s": 214.19700931176484
+  },
+  {
+   "t": 374.21317801099985,
+   "kv_usage": 0.005316896438149921,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 27297.0,
+   "kv_tokens_in_use": 1808,
+   "gen_tokens_per_s": 210.44256800658914
+  },
+  {
+   "t": 375.22051458299984,
+   "kv_usage": 0.005881522608572887,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 27505.0,
+   "kv_tokens_in_use": 2000,
+   "gen_tokens_per_s": 206.48510714450956
+  },
+  {
+   "t": 376.2279383839998,
+   "kv_usage": 0.0034348092034065525,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 27701.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 194.55565751519106
+  },
+  {
+   "t": 377.2349685859999,
+   "kv_usage": 0.0039994353738296295,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 27913.0,
+   "kv_tokens_in_use": 1360,
+   "gen_tokens_per_s": 210.52000186184483
+  },
+  {
+   "t": 378.2446345149999,
+   "kv_usage": 0.004752270267726955,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 28129.0,
+   "kv_tokens_in_use": 1616,
+   "gen_tokens_per_s": 213.93214705574303
+  },
+  {
+   "t": 379.2523473699998,
+   "kv_usage": 0.005316896438149921,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 28341.0,
+   "kv_tokens_in_use": 1808,
+   "gen_tokens_per_s": 210.377389698
+  },
+  {
+   "t": 380.26009581999983,
+   "kv_usage": 0.005881522608572887,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 28545.0,
+   "kv_tokens_in_use": 2000,
+   "gen_tokens_per_s": 202.43146987722812
+  },
+  {
+   "t": 381.2686330099998,
+   "kv_usage": 0.0034348092034065525,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 28745.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 198.30701533178558
+  },
+  {
+   "t": 382.27637457599985,
+   "kv_usage": 0.0041876440973038775,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 28957.0,
+   "kv_tokens_in_use": 1424,
+   "gen_tokens_per_s": 210.37139595370184
+  },
+  {
+   "t": 383.283896638,
+   "kv_usage": 0.004752270267726955,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 29169.0,
+   "kv_tokens_in_use": 1616,
+   "gen_tokens_per_s": 210.41722856086866
+  },
+  {
+   "t": 384.29213196499995,
+   "kv_usage": 0.005316896438149921,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 29381.0,
+   "kv_tokens_in_use": 1808,
+   "gen_tokens_per_s": 210.26837120537357
+  },
+  {
+   "t": 385.3000644219999,
+   "kv_usage": 0.006069731332047246,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 29589.0,
+   "kv_tokens_in_use": 2064,
+   "gen_tokens_per_s": 206.36303410558352
+  },
+  {
+   "t": 386.3076132499998,
+   "kv_usage": 0.0036230179268809115,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 29789.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 198.5015459717399
+  },
+  {
+   "t": 387.3164705879999,
+   "kv_usage": 0.0041876440973038775,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 30001.0,
+   "kv_tokens_in_use": 1424,
+   "gen_tokens_per_s": 210.13873023935858
+  },
+  {
+   "t": 388.324002329,
+   "kv_usage": 0.004752270267726955,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 30213.0,
+   "kv_tokens_in_use": 1616,
+   "gen_tokens_per_s": 210.4152071572109
+  },
+  {
+   "t": 389.333099212,
+   "kv_usage": 0.00550510516162428,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 30425.0,
+   "kv_tokens_in_use": 1872,
+   "gen_tokens_per_s": 210.08884634519617
+  },
+  {
+   "t": 390.34040211699994,
+   "kv_usage": 0.006069731332047246,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 30633.0,
+   "kv_tokens_in_use": 2064,
+   "gen_tokens_per_s": 206.4920084788281
+  },
+  {
+   "t": 391.34768184799987,
+   "kv_usage": 0.0036230179268809115,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 30833.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 198.55457609720798
+  },
+  {
+   "t": 392.3580242129999,
+   "kv_usage": 0.0041876440973038775,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 31045.0,
+   "kv_tokens_in_use": 1424,
+   "gen_tokens_per_s": 209.82986296926302
+  },
+  {
+   "t": 393.3667243919999,
+   "kv_usage": 0.004940478991201203,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 31257.0,
+   "kv_tokens_in_use": 1680,
+   "gen_tokens_per_s": 210.1714705852121
+  },
+  {
+   "t": 394.37467067399984,
+   "kv_usage": 0.00550510516162428,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 31469.0,
+   "kv_tokens_in_use": 1872,
+   "gen_tokens_per_s": 210.32866908280005
+  },
+  {
+   "t": 395.3825914749998,
+   "kv_usage": 0.006069731332047246,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 31677.0,
+   "kv_tokens_in_use": 2064,
+   "gen_tokens_per_s": 206.36542057038997
+  },
+  {
+   "t": 396.39073016299994,
+   "kv_usage": 0.0036230179268809115,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 31877.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 198.38540310038306
+  },
+  {
+   "t": 397.399022844,
+   "kv_usage": 0.0043758528207782366,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 32089.0,
+   "kv_tokens_in_use": 1488,
+   "gen_tokens_per_s": 210.25641065819457
+  },
+  {
+   "t": 398.406485621,
+   "kv_usage": 0.004940478991201203,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 32301.0,
+   "kv_tokens_in_use": 1680,
+   "gen_tokens_per_s": 210.42961074084414
+  },
+  {
+   "t": 399.4153140669998,
+   "kv_usage": 0.00550510516162428,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 32513.0,
+   "kv_tokens_in_use": 1872,
+   "gen_tokens_per_s": 210.1447484362835
+  },
+  {
+   "t": 400.4225088779999,
+   "kv_usage": 0.00611678351291578,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 32717.0,
+   "kv_tokens_in_use": 2080,
+   "gen_tokens_per_s": 202.54274324292732
+  },
+  {
+   "t": 401.4298790839998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 32917.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 198.53674330330438
+  },
+  {
+   "t": 402.43969875899984,
+   "kv_usage": 0.0043758528207782366,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 33133.0,
+   "kv_tokens_in_use": 1488,
+   "gen_tokens_per_s": 213.8995756841402
+  },
+  {
+   "t": 403.4472916279999,
+   "kv_usage": 0.004940478991201203,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 33345.0,
+   "kv_tokens_in_use": 1680,
+   "gen_tokens_per_s": 210.40244182195238
+  },
+  {
+   "t": 404.457052,
+   "kv_usage": 0.005693313885098528,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 33557.0,
+   "kv_tokens_in_use": 1936,
+   "gen_tokens_per_s": 209.9508020700822
+  },
+  {
+   "t": 405.4658288369999,
+   "kv_usage": 0.006257940055521605,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 33761.0,
+   "kv_tokens_in_use": 2128,
+   "gen_tokens_per_s": 202.22510323164508
+  },
+  {
+   "t": 406.4735511309998,
+   "kv_usage": 0.0038112266503552705,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 33965.0,
+   "kv_tokens_in_use": 1296,
+   "gen_tokens_per_s": 202.43672410012127
+  },
+  {
+   "t": 407.4813085889998,
+   "kv_usage": 0.0043758528207782366,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 34177.0,
+   "kv_tokens_in_use": 1488,
+   "gen_tokens_per_s": 210.3680784667504
+  },
+  {
+   "t": 408.4885764009998,
+   "kv_usage": 0.005128687714675562,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 34389.0,
+   "kv_tokens_in_use": 1744,
+   "gen_tokens_per_s": 210.47034112909594
+  },
+  {
+   "t": 409.49917665,
+   "kv_usage": 0.005693313885098528,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 34601.0,
+   "kv_tokens_in_use": 1936,
+   "gen_tokens_per_s": 209.77631878652528
+  },
+  {
+   "t": 410.506484323,
+   "kv_usage": 0.006257940055521605,
+   "running": 4,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 34805.0,
+   "kv_tokens_in_use": 2128,
+   "gen_tokens_per_s": 202.5200497008397
+  },
+  {
+   "t": 411.51441659399984,
+   "kv_usage": 0.0032466004799321935,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 34867.0,
+   "kv_tokens_in_use": 1104,
+   "gen_tokens_per_s": 61.51206959421734
+  },
+  {
+   "t": 412.5226058889998,
+   "kv_usage": 0.0034348092034065525,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 34925.0,
+   "kv_tokens_in_use": 1168,
+   "gen_tokens_per_s": 57.52887903853609
+  },
+  {
+   "t": 413.53074288999983,
+   "kv_usage": 0.0036230179268809115,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 34983.0,
+   "kv_tokens_in_use": 1232,
+   "gen_tokens_per_s": 57.531863171837585
+  },
+  {
+   "t": 414.5386766119998,
+   "kv_usage": 0.0037641744694866253,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 35040.0,
+   "kv_tokens_in_use": 1280,
+   "gen_tokens_per_s": 56.55133741026096
+  },
+  {
+   "t": 415.5471688849998,
+   "kv_usage": 0.0031995482990636592,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 35097.0,
+   "kv_tokens_in_use": 1088,
+   "gen_tokens_per_s": 56.52001658916023
+  },
+  {
+   "t": 416.5543860099999,
+   "kv_usage": 0.003340704841669373,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 35154.0,
+   "kv_tokens_in_use": 1136,
+   "gen_tokens_per_s": 56.591571554140266
+  },
+  {
+   "t": 417.5620715819998,
+   "kv_usage": 0.003528913565143732,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 35211.0,
+   "kv_tokens_in_use": 1200,
+   "gen_tokens_per_s": 56.56526359395532
+  },
+  {
+   "t": 418.56980347399985,
+   "kv_usage": 0.003717122288618091,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 35268.0,
+   "kv_tokens_in_use": 1264,
+   "gen_tokens_per_s": 56.56266359385781
+  },
+  {
+   "t": 419.5771202919998,
+   "kv_usage": 0.0038582788312238048,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 35325.0,
+   "kv_tokens_in_use": 1312,
+   "gen_tokens_per_s": 56.585970750667684
+  },
+  {
+   "t": 420.5853843749999,
+   "kv_usage": 0.0032936526608008387,
+   "running": 1,
+   "waiting": 0,
+   "preemptions": 0,
+   "gen_tokens_total": 35382.0,
+   "kv_tokens_in_use": 1120,
+   "gen_tokens_per_s": 56.532808180964594
+  }
+ ]
+}
